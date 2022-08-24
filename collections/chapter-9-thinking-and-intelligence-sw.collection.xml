@@ -1,59 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Stephen E. Wisecarver">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11815</md:content-id>
-  <md:title>Chapter 9: Thinking and Intelligence SW</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>4385d88a-8cef-4e24-a53b-37932bf6f9b8</md:uuid>
-<md:slug>chapter-9-thinking-and-intelligence-sw</md:slug>
-</metadata>
-
+    <md:content-id>col11815</md:content-id>
+    <md:title>Chapter 9: Thinking and Intelligence SW</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>4385d88a-8cef-4e24-a53b-37932bf6f9b8</md:uuid>
+    <md:slug>chapter-9-thinking-and-intelligence-sw</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m55806"/>
-        
-      
-    
-    
-      <col:module document="m55807"/>
-        
-      
-    
-    
-      <col:module document="m55808"/>
-        
-      
-    
-    
-      <col:module document="m55810"/>
-        
-      
-    
-    
-      <col:module document="m55812"/>
-        
-      
-    
-    
-      <col:module document="m55813"/>
-        
-      
-    
-    
-      <col:module document="m55814"/>
-        
-      
-    
+    <col:module document="m55806"/>
+    <col:module document="m55807"/>
+    <col:module document="m55808"/>
+    <col:module document="m55810"/>
+    <col:module document="m55812"/>
+    <col:module document="m55813"/>
+    <col:module document="m55814"/>
   </col:content>
 </col:collection>
